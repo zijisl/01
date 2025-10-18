@@ -223,6 +223,6 @@
         setTimeout(main, 2000);
     });
 
-    console.log('油猴脚本已加载');
+    console.log('油猴脚本已加载002');
 
 })();
